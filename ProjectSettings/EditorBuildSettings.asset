@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/start_menue.unity
+    guid: 604d16b034c831c47abf29fb09fcacb2
+  - enabled: 1
+    path: Assets/Scenes/Suit_up.unity
+    guid: 382a2032500c5493298d925bcfcc82cb
+  - enabled: 1
+    path: Assets/Scenes/PR_lab.unity
+    guid: d7dcf76f67ebf054eb7aebaf0d7e240c
+  - enabled: 1
+    path: Assets/Scenes/mask_Alignment/Maskchoose.unity
+    guid: ab6bedd26c77a4052aa2060244e102d0
+  - enabled: 1
+    path: Assets/Scenes/mask_Alignment/Maskminigame.unity
+    guid: 2a7e663c1a1534620b776ca33fe949f7

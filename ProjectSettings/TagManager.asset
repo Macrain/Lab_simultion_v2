@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - SF_Door
+  - Table
+  - Spinner
+  - Wafer
+  - Spinner_inside
+  - Spinner_Lid
+  - Pipette_Photo_Resist
+  - Pipette_Adhesive
+  - Developer_water
+  - Developer
+  - Sonicator
+  - wall
+  - ShowOnPause
+  - UI Text Notifications
+  - Doors
+  - Mask_aligner
+  - Piranha_Beaker
+  - Piranha_Water_Beaker
+  - Acetone
+  - Propanol
+  - DIrinse
+  - Sonicator_water
+  - Hot_plate
+  - Hot_plate_panel
+  - Developer_Beaker
+  - Developer_Water_Beaker
+  - BOE
+  - Al_Etchatnt
+  - Al_Etchant
+  - Microscope
+  - Microscope_Canvas
+  - masks
+  - Pipette_Dopant
+  - Furnace
+  - mask1
+  - mask2
+  - mask3
+  - mask4
+  - selected_mask
+  - lab_manual
+  - Evaporator
+  - BHF
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Layer 1 (col wafer)
+  - Layer 2 (col FPS)
+  - Layer 3
+  - Layer 4
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
